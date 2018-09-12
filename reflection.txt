@@ -1,0 +1,26 @@
+Thinking about the program you worked on today:
+
+1. How similar was your plan to the final program? Did you have to digress from your plan as the program developed?
+
+Fairly similar, to be honest. My classes had the same amount of attributes I planned and I've set out the variables too.
+However, I didn't follow the same names I've set out previously and that's something I definitely need to keep checking. Also, throughout
+the program I did have to run back to the plan and that's something that I could've avoided if I had planned better.
+
+2. Does each of your classes follow the Single Responsibility principle? Or are any of your classes doing too much?
+
+I did follow the Single Responsibility Principle, but mostly due to the fact to what it made sense. Doing the pub exercise, for me it made sense
+having the "buy drink" function inside the customers class since he was doing the action of buying, but later on we realised that for the sake
+of the program, the exact function would've worked better in the pub class. That's something I need to work on, but despite that, I get the principle
+of keeping it simple.
+
+3. Did you practice TDD?
+
+I did, and definitely learnt some valuable lessons today. learnt about what I can access and the limitations of working with several classes. It's still
+confusing how we start with the TDD before setting out our functions, but I do understand there are times that when reverse engineering things helps understand
+our programs better. Definitely need more practice here.
+
+4. Are each of your methods tested? Did you find anything difficult to test?
+
+I did test all the methods I wrote, I guess the difficulty is to stop overthinking. I did find difficult to come to terms with a couple of things
+in regards to the concept of multiple classes. I thought I understood yesterday, but I just need extra practice and to write my questions down, maybe it'll
+"rubber duck". Create the habit of writing my questions before I ask.  
